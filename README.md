@@ -1,8 +1,5 @@
 # NumericalOptimizationProject
 Project for the exam Numerical Optimization for Large Scale Problems in collaboration with Geard Koci.
-
-# Numerical Optimization Project
-
 This MATLAB project explores several variants of Newton's methods for solving unconstrained optimization problems. In particular, it implements and compares:
 
 - Modified Newton method with backtracking  
